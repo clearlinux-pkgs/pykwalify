@@ -4,7 +4,7 @@
 #
 Name     : pykwalify
 Version  : 1.7.0
-Release  : 1
+Release  : 2
 URL      : https://github.com/Grokzen/pykwalify/releases/download/1.7.0/pykwalify-1.7.0.tar.gz
 Source0  : https://github.com/Grokzen/pykwalify/releases/download/1.7.0/pykwalify-1.7.0.tar.gz
 Summary  : Python lib/cli for JSON/YAML schema validation
